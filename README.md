@@ -1,20 +1,7 @@
-<<<<<<< HEAD
-# app1
+# Пкс #5
 
-A new Flutter project.
+Избранное + "удалить" на странице товара
+https://github.com/user-attachments/assets/581d0937-d907-4857-9a0c-d843f8923b46
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# pcs1
->>>>>>> fdc77a515eb182327499655cc0e291a9a3e87d04
+Работа профиля
+[Screen_recording_20241003_112340.webm](https://github.com/user-attachments/assets/4badb482-34a5-4197-8b2d-b77ce8966bf9)
